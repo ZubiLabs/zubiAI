@@ -4,7 +4,7 @@
 [
   {
     "role": "user", 
-    "content": "I need web based chat interface to communicate with you. Can you create that?\\n\\nBased on the question above, formulate a follow up question that you would \\nneed answer to in order to better understand the requirements of the solution requested.\\n"
+    "content": "I need web based chat interface to communicate with you. Can you create that?"
   }, 
   {
     "role": "assistant", 
@@ -12,7 +12,7 @@
   }, 
   {
     "role": "user", 
-    "content": "\\nInitially I just need a chat interface that sends and receives the chat to a rest api.\\n\\nAnything else you need to know from me?"
+    "content": "\\nInitially I just need a chat interface that sends and receives the chat to a rest api."
   }, 
   {
     "role": "assistant", 
@@ -20,7 +20,7 @@
   }, 
   {
     "role": "user", 
-    "content": "\\nSet placeholders where needed and I will fill them out manually.\\n\\nAre you now confident that you have gathered the requirements you need?\\nIf not, ask more questions."
+    "content": "\\nSet placeholders where needed and I will fill them out manually."
   }, 
   {
     "role": "assistant", 
@@ -28,7 +28,7 @@
   }, 
   {
     "role": "user", 
-    "content": "\\n1. it would suffice just fine.\\n2. plain text only.\\n3. No need.\\n\\nLet the user know that more questions may come and that these questions can be re-iterated later on.\\nTry to end this conversation now by letting the user know you will come back later on."
+    "content": "\\n1. it would suffice just fine.\\n2. plain text only.\\n3. No need."
   }, 
   {
     "role": "assistant", 
